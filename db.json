@@ -9,6 +9,7 @@
         "blinds": "$50/100",
         "players": 8,
         "max_capacity": 10,
+        "services": ["Dealer", "Drinks", "Food", "Sponsored", "Beginner Friendly", "Experienced Only"],
         "status": "upcoming"
       },
       {
@@ -20,6 +21,7 @@
         "blinds": "$20/40",
         "players": 4,
         "max_capacity": 6,
+        "services": ["Dealer", "Sponsored", "Food"],
         "status": "live"
       },
       {
@@ -27,10 +29,11 @@
         "room_name": "High Stakes Tournament",
         "game_date": "Mar 20, 2025",
         "start_time": "8:00 PM",
-        "location": "The Poker Room",
+        "location": "The Rest Room",
         "blinds": "$100/200",
         "players": 2,
         "max_capacity": 6,
+        "services": ["Dealer", "Experienced Only", "Drinks"],
         "status": "completed"
       },
       {
@@ -38,10 +41,11 @@
         "room_name": "Newbie-Friendly Event",
         "game_date": "Mar 22, 2025",
         "start_time": "12:00 PM",
-        "location": "The Poker Room",
+        "location": "The White House",
         "blinds": "$25/50",
         "players": 5,
         "max_capacity": 8,
+        "services": ["Beginner Friendly", "Food", "Drinks"],
         "status": "upcoming"
       },
       {
@@ -49,10 +53,11 @@
         "room_name": "Weekend Tournament",
         "game_date": "Mar 24, 2025",
         "start_time": "5:00 PM",
-        "location": "The Poker Room",
+        "location": "The Black House",
         "blinds": "$50/100",
         "players": 3,
         "max_capacity": 10,
+        "services": ["Dealer", "Drinks"],
         "status": "live"
       }
     ],
